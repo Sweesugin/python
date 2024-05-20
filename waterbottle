@@ -1,0 +1,18 @@
+n=int(input())
+b=n//10
+print("no of 10 litre water bottle",b)
+c=n-(b*10)
+d=c//5
+print("no of  litre water bottle",d)
+e=c-(d*5)
+f=e//5
+print("no of 1 litre water bottle",f)
+3:03 PM
+
+
+
+
+
+
+
+A
