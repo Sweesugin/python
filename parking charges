@@ -1,0 +1,4 @@
+map(int, input().split())
+A=H-1
+B=A*Y
+print(B+X)
