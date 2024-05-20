@@ -1,0 +1,20 @@
+n=int(input())
+b=n//20
+print("no.of 20 rs coin ",b)
+c=n-(b*20)
+d=c//10
+print("no.of 10 rs coin",d)
+e=c-(d*10)
+f=e//5
+print("no of 5 rs coin",f)
+g=e-(f*5)
+h=g//2
+print("no of 2 rs coin",h)
+i=g-(h*2)
+j=i//1
+print("no of 1 rs coin",j)
+3:03 PM
+
+
+
+
